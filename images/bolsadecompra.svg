@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg3361"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="bolsadecompra.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3363"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="261.06678"
+     inkscape:cy="238.13068"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3358">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3111">
+      <rect
+         style="display:none;fill:none;fill-opacity:1;stroke:#050505;stroke-width:2.265;stroke-opacity:1"
+         id="rect3113"
+         width="40"
+         height="40"
+         x="60.318497"
+         y="113.50722"
+         rx="2.5"
+         d="m 62.818497,113.50722 h 35 c 1.385,0 2.500003,1.115 2.500003,2.5 v 35 c 0,1.385 -1.115003,2.5 -2.500003,2.5 h -35 c -1.385,0 -2.5,-1.115 -2.5,-2.5 v -35 c 0,-1.385 1.115,-2.5 2.5,-2.5 z" />
+      <path
+         id="lpe_path-effect3115"
+         style="fill:none;fill-opacity:1;stroke:#050505;stroke-width:2.265;stroke-opacity:1"
+         class="powerclip"
+         d="m 64.185997,97.033661 h 32.265 v 32.264999 h -32.265 z m -1.3675,16.473559 c -1.385,0 -2.5,1.115 -2.5,2.5 v 35 c 0,1.385 1.115,2.5 2.5,2.5 h 35 c 1.385,0 2.500003,-1.115 2.500003,-2.5 v -35 c 0,-1.385 -1.115003,-2.5 -2.500003,-2.5 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3115"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Utilice la regla de relleno parimpar en el diálogo &lt;b&gt;Relleno y borde&lt;/b&gt; si el resultado no está aplanada después de convertir el recorte en trayectos." />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3500"
+       transform="matrix(2.5751155,0,0,2.5751155,-189.93396,-172.0915)"
+       style="fill:none;stroke:#ffffff;stroke-opacity:1">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.265;stroke-opacity:1"
+         id="rect846"
+         width="40"
+         height="40"
+         x="79.594955"
+         y="78.339996"
+         rx="2.5" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:2.265;stroke-opacity:1"
+         id="path936"
+         clip-path="url(#clipPath3111)"
+         inkscape:path-effect="#path-effect3115"
+         sodipodi:type="arc"
+         sodipodi:cx="80.318497"
+         sodipodi:cy="113.16616"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
+         transform="translate(19.276455,-35.167218)"
+         d="m 90.318497,113.16616 a 10,10 0 0 1 -10,10 10,10 0 0 1 -10,-10 10,10 0 0 1 10,-10 10,10 0 0 1 10,10 z" />
+    </g>
+  </g>
+</svg>
