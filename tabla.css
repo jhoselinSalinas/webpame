@@ -1,0 +1,49 @@
+.tableContainer{
+  background-color: var(--colorblanco);
+  width: 96%;
+  padding: 2%;
+  color: var(--colorprimario);
+}
+
+table{
+    width: 100%;
+}
+
+th{
+  color: var(--colorprimario);
+  font-size: 1.2em;
+}
+
+.tdCenter{
+  text-align: center;
+}
+
+.tdBorder{
+    border: 1px solid transparent;
+}
+
+td{
+  border: 1px solid var(--colorprimariotransparente);
+  border-radius: 8px;
+  color: var(--colorprimario);
+  font-weight: bold;
+  font-size: 1.1em;
+  text-align: left;
+  padding: 5px;
+}
+
+.dimencionNombre{
+  width: 12.5%;
+}
+
+.dimencionMonto{
+  width: 6.25%;
+}
+
+.dimencionNro{
+  width: 3.125%;
+}
+
+.dimencionCurso{
+  width: 25%;
+}
