@@ -32,12 +32,15 @@ body{
 
 .flexH{
   display: flex;
-  justify-content: center;
 }
 
 .flexV{
   display: flex;
   flex-direction: column;
+  justify-content: center;
+}
+
+.flexCenter{
   justify-content: center;
 }
 
@@ -94,7 +97,6 @@ body{
   text-align: start;
   font-size: 2em;
   color: var(--colorsecundario);
-  padding-bottom: 130px;
 }
 
 .title2Variable{
@@ -117,11 +119,17 @@ body{
   color: var(--colorprimario);
 }
 
-.parrafo{
+.parrafo
+.parrafo1{
   text-align: left;
   font-size: 1.2em;
   padding-bottom: 0.2em;
   color: var(--colorprimariotransparente);
+}
+
+.parrafo1:hover{
+  color: var(--colormorado);
+  cursor: pointer;
 }
 
 .formLink{
@@ -440,7 +448,15 @@ td{
 }
 
 .containerTitleTemario{
-  padding-left: 2%;
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.containerParrafoTemario{
+  width: 100%;
+  padding-top: 5px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
 }
 
 .borde{
