@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="user2.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-center="true"
+     inkscape:zoom="13"
+     inkscape:cx="6.9615385"
+     inkscape:cy="22.423077"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="line-height:normal;-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-transform:none;fill:#ffffff"
+     d="m 16.076923,5.3076923 c -3.854148,0 -6.9999999,3.1458514 -6.9999999,7.0000007 0,2.408843 1.2311599,4.55212 3.0937499,5.8125 -3.5671368,1.529833 -5.7091345,3.837993 -5.7091345,7.956731 l 1.6153846,1.230769 c 0,-4.430666 3.5693339,-8 7.9999999,-8 4.430666,0 8,3.569334 8,8 l 1.692308,-1.153846 c 0,-4.118738 -2.218921,-6.503821 -5.786058,-8.033654 1.86259,-1.26038 3.09375,-3.403657 3.09375,-5.8125 0,-3.8541493 -3.145852,-7.0000007 -7,-7.0000007 z m 0,2 c 2.773268,0 5,2.2267314 5,5.0000007 0,2.773268 -2.226732,5 -5,5 -2.773268,0 -5,-2.226732 -5,-5 0,-2.7732693 2.226732,-5.0000007 5,-5.0000007 z"
+     color="#000000"
+     overflow="visible"
+     font-family="'Bitstream Vera Sans'"
+     id="path2"
+     sodipodi:nodetypes="sscccscccsssssss" />
+  <circle
+     style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path912"
+     cx="16.115385"
+     cy="16.307693"
+     r="14" />
+</svg>
